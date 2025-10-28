@@ -39,6 +39,7 @@ Befor that, I conducted research on model compression and inference acceleration
 
 # 📝 Publications 
 
+<!-- 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://arxiv.org/html/2406.10576v1/extracted/5669159/imgs/overview5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,13 +52,29 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 - Superior performance compared to existing techniques, with efficient computation on a single GPU.
 
 
-<p style="margin-top: 20px; font-size: 0.9em"><sup>*</sup> Equal contribution</p>
+<!-- <p style="margin-top: 20px; font-size: 0.9em"><sup>*</sup> Equal contribution</p> -->
 <!-- <sup>*</sup> Equal contribution -->
 </div>
 </div>
 
+<!-- 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://arxiv.org/html/2510.23482v1/x4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**On the Faithfulness of Visual Thinking: Measurement and Enhancement**](https://arxiv.org/abs/2510.23482) (Arxiv Preprint)
+
+**Zujing Liu**<sup>*</sup>, Junwen Pan<sup>*</sup>, Qi She, Yuan Gao, Gui-Song Xia
+
+- Investigate the faithfulness of multimodal chain-of-thought (MCoT) in LVLMs, and propose an MCoT faithfulness evaluation framework.
+- Propose a reinforcement learning method based on Sufficient-Component Cause Model (SCCM) modeling to improve MCoT reasoning faithfulness.
+
+
+<p style="margin-top: 20px; font-size: 0.9em"><sup>*</sup> Equal contribution</p>
+</div>
+</div>
 
 # 🎖 Honors and Awards
+- *2023-2026(M.Eng.)* Second-Class Academic Scholarship of Wuhan University, DiDi Scholarship
 - *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (Top 10%), Outstanding Students of Wuhan University (Top 10%)
 
 # 📖 Educations
@@ -66,4 +83,4 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Son
 
 # 💻 Internships
 <!-- **I'm actively seeking internship and visiting opportunities 🥺🤗** -->
-- *2025.04 - (now)*, Business Integrity at ByteDance, Research Intern.
+- *2025.05 - 2025.10*, Business Integrity at ByteDance, Research Intern.
