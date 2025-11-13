@@ -30,6 +30,7 @@ Befor that, I conducted research on model compression and inference acceleration
 - 🌲 Structural Pruning, Knowledge Distillation and Quantization. KV Cache Optimization.
 
 # 🔥 News
+- *2025.11*: &nbsp;🤓🤓 Great honor to have been invited as a reviewer for ICLR 2025.
 - *2025.05*: &nbsp;🎉🎉 One papers got accepted by ACL 2025.
 - *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
 - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
