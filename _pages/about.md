@@ -45,7 +45,7 @@ Befor that, I conducted research on model compression and inference acceleration
 
 [**Bypass Back-propagation: Optimization-based Structural Pruning for Large Language Models via Policy Gradient**](https://arxiv.org/abs/2406.10576) (ACL 2025 Main Conference)
 
-Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang, Bo Du, Gui-Song Xia
+Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang<sup>*</sup>, Bo Du, Gui-Song Xia
 
 - A novel optimization-based structural pruning method for LLM that optimizes directly for model loss.
 - Learning pruning mask using Bernoulli distribution via policy gradient estimator to avoid back-propagation.
