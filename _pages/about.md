@@ -17,23 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋. This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/). I obtained my bachelor degree in Computer Science and Technology also in Wuhan University and got the Honor Degree from Hongyi Honor College.
+<!-- Hi there 👋. This is Liu Zujing(刘祖靖), a Master student at [Captain](http://www.captain-whu.com/en/team/) in Wuhan University, China since 2023, advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/). I obtained my bachelor degree in Computer Science and Technology also in Wuhan University and got the Honor Degree from Hongyi Honor College. -->
+
+Hi there 👋. This is Liu Zujing (刘祖靖). Currently, I am working as a Research Engineer at ByteDance. I received my Master’s degree from Wuhan University,  advised by [Prof.Gui-song Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) and [Prof.Yuan Gao](https://yuan-gao.net/) at [Captain](http://www.captain-whu.com/en/team/). I completed my undergraduate study in Computer Science and Technology at Wuhan University and received an honor degree from Hongyi Honor College.
 
 <!-- I’m currently working on model compression and inference acceleration on LLMs and MLLMs, including:
 - 🔭 Structural Pruning, Knowledge Distillation and Quantization.
 - 🖥️ KV Cache Optimization and Implicit Chain of Thought (CoT) Inference -->
 
-Currently, I'm working on MLLM reasoning, including:
+<!-- Currently, I'm working on MLLM reasoning, including:
 - 🔭 Reasoning with images and videos, built upon Reinforcement Learning (RL)
 
 Befor that, I conducted research on model compression and inference acceleration on LLMs and MLLMs, including:
-- 🌲 Structural Pruning, Knowledge Distillation and Quantization. KV Cache Optimization.
+- 🌲 Structural Pruning, Knowledge Distillation and Quantization. KV Cache Optimization. -->
+
+Currently, I'm working on Multimodal Large Language Models (MLLMs) and AI Agents with Reinforcement Learning.
+Before that, I conducted research on MLLM reasoning as well as Efficient LLM/MLLM.
 
 # 🔥 News
-- *2025.11*: &nbsp;🤓🤓 Great honor to have been invited as a reviewer for ICLR 2025.
+- *2026.07*: &nbsp;🤓🤓 Great honor to join ByteDance.
+- *2026.06*  &nbsp;🎓🎓 Farewell WHU!
 - *2025.05*: &nbsp;🎉🎉 One papers got accepted by ACL 2025.
 - *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
-- *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10.
+<!-- - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10. -->
 
 <!-- - *2023.09*: &nbsp;🎉🎉 Back to WHU and start to work towards a Masters Degree.
 - *2023.06*: &nbsp;🎉🎉 Got my bachelor degree from WHU! Farewell all my friends! -->
