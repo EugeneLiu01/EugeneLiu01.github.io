@@ -36,7 +36,7 @@ Before that, I conducted research on MLLM reasoning as well as Efficient LLM/MLL
 
 # 🔥 News
 - *2026.07*: &nbsp;🤓🤓 Great honor to join ByteDance.
-- *2026.06*  &nbsp;🎓🎓 Farewell WHU!
+- *2026.06*  &nbsp;🎓🎓 Farewell WHU! Cherishing my great time here.
 - *2025.05*: &nbsp;🎉🎉 One papers got accepted by ACL 2025.
 - *2025.04*: &nbsp;🥺🥺 Soooo lucky to join ByteDance as a Research Intern.
 <!-- - *2024.06*: &nbsp;🎉🎉 Our paper on optimization-based structural pruning is available on [Arxiv](https://arxiv.org/abs/2406.10576), with latest update on 2024.10. -->
@@ -85,7 +85,7 @@ Yuan Gao<sup>*</sup>, **Zujing Liu**<sup>*</sup>, Weizhong Zhang<sup>*</sup>, Bo
 - *2019-2023(B.Eng.)* Second-Class Academic Scholarship of Wuhan University (Top 10%), Outstanding Students of Wuhan University (Top 10%)
 
 # 📖 Educations
-- *2023.09 - (now)*, M.Eng. in Computer Science, School of Computer, Wuhan University
+- *2023.09 - 2026.06*, M.Eng. in Computer Science, School of Computer, Wuhan University
 - *2019.09 - 2023.06*, B.Eng. in Computer Science, School of Computer, Wuhan University
 
 # 💻 Internships
